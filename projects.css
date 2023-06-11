@@ -1,6 +1,7 @@
 *{
     font-family: 'Montserrat', sans-serif;
     background-color: aquamarine;
+    padding:auto;
 }
 h1{
     color: rgb(44, 11, 230);
@@ -15,6 +16,7 @@ footer{
     forced-color-adjust: 50px;
     color: gray;
 }
+
 
 
 .gradient-background {
@@ -43,6 +45,16 @@ footer{
   
   .profile-img {
     border-radius: 50%;
-    height: 100px;
+    height: 80px;
+   
   }
-  
+  #profilePic{
+    padding-bottom: 10%;
+  }
+  .card-group{
+    padding: 2%;
+  }
+  .card{
+    padding: 2%;
+    background-color: #2fd182;
+  }
